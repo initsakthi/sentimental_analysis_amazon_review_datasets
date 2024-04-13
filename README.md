@@ -1,4 +1,4 @@
-# sentimental_analysis_amazon_review_datasets
+# Sentimental_Analysis_Amazon_Review_Datasets
 Welcome to the Sentiment Analysis project utilizing Amazon Review Datasets! This project focuses on analyzing sentiment from text data extracted from Amazon reviews. Leveraging Natural Language Processing (NLP) techniques, we delve into understanding the sentiments expressed in these reviews, be it positive, negative, or neutral.
 
 Features:
